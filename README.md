@@ -1,21 +1,26 @@
-WorkoutPlannerApp
+**WorkoutPlannerApp**
+
 A mobile application designed to help users track their fitness progress, discover new exercises, and receive AI-based workout suggestions.​
 
-📱 Features
-User Authentication: Secure sign-up and login functionality.
 
-Profile Management: Upload and edit profile pictures and personal information.
+**📱 Features**
 
-Workout Progress Tracking: Add, view, and delete workout entries with images, dates, and weight records.
+**User Authentication:** Secure sign-up and login functionality.
 
-AI Exercise Suggestions: Receive personalized exercise recommendations.
+**Profile Management:** Upload and edit profile pictures and personal information.
 
-Exercise Library: Browse exercises fetched from the Wger API, filtered for English language and available images.
+**Workout Progress Tracking:** Add, view, and delete workout entries with images, dates, and weight records.
 
-Completion Tracking: Mark exercises as completed to monitor progress.​
+**AI Exercise Suggestions:** Receive personalized exercise recommendations.
 
-🚀 Getting Started
-Prerequisites
+**Exercise Library:** Browse exercises fetched from the Wger API, filtered for English language and available images.
+
+**Completion Tracking:** Mark exercises as completed to monitor progress.​
+
+
+**🚀 Getting Started**
+**Prerequisites**
+
 Flutter SDK installed
 
 An IDE like Android Studio or VS Code
@@ -74,7 +79,7 @@ AI Suggestions: Access the AI suggestions section to receive personalized exerci
 
 Exercise Library: Explore exercises fetched from the Wger API, view details, and mark them as completed.​
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 Flutter
 
 Firebase Authentication
