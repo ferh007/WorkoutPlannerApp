@@ -80,6 +80,7 @@ AI Suggestions: Access the AI suggestions section to receive personalized exerci
 Exercise Library: Explore exercises fetched from the Wger API, view details, and mark them as completed.​
 
 **🛠️ Technologies Used**
+
 Flutter
 
 Firebase Authentication
