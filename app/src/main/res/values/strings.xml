@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WorkoutPlannerApp</string>
+    <string name="workout_planner">Workout Planner</string>
+    <string name="push_up_workout">Push-Up Workout</string>
+    <string name="do_3_sets_of_15_reps_for_a_strong_chest_and_arms">Do 3 sets of 15 reps for a strong chest and arms.</string>
+    <string name="squat_routine">Squat Routine</string>
+    <string name="perform_3_sets_of_12_reps_to_build_strong_legs_and_glutes">Perform 3 sets of 12 reps to build strong legs and glutes.</string>
+    <string name="jump_squat_workout">Jump Squat Workout</string>
+    <string name="perform_3_sets_of_10_jump_squats_to_improve_power_and_endurance">Perform 3 sets of 10 jump squats to improve power and endurance.</string>
+    <string name="default_web_client_id">426304559056-67dvk6vclosvmmjfncmmjht6kaqke9bn.apps.googleusercontent.com</string>
+</resources>
