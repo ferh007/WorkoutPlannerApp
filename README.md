@@ -66,7 +66,8 @@ bash
 Copy
 Edit
 flutter run
-🧪 Usage
+
+**🧪 Usage**
 Sign Up/Login: Create an account or log in with existing credentials.
 
 Profile Setup: Navigate to the profile section to upload a picture and edit personal details.
